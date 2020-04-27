@@ -2,7 +2,7 @@
 Análise exploratória e um pouco de machine learning com Python
 
 ## Sobre
-Atividades da quarentena gratuitas #QuarentenaDadosmontama pela [Alura](https://www.alura.com.br) apoio do [DataHackers](https://datahackers.com.br/blog).
+Atividades da quarentena gratuita montama pela [Alura](https://www.alura.com.br) apoio do [DataHackers](https://datahackers.com.br/blog).
 
 Aprendizado sobre análise exploratória, a importância de ter dados limpos e um pouco de machine learning. Tudo com Python e as principais bibliotecas que cientistas de dados precisam conhecer.
 
